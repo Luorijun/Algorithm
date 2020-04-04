@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\luori\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\luori\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\luori\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\luori\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Algorithm.186145740.00" t="ExcludeRecursive" />
+    <e p="C:\Users\luori\Projects\Algorithm" t="IncludeFlat">
+      <e p="Algorithm.sln" t="IncludeFlat" />
+      <e p="leetcode-13" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="leetcode-13.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="leetcode-13.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+      </e>
+      <e p="leetcode-42" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="leetcode-42.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="leetcode-42.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+      </e>
+      <e p="leetcode-7" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="leetcode-7.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="leetcode-7.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+      </e>
+      <e p="leetcode-9" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="leetcode-9.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="leetcode-9.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
