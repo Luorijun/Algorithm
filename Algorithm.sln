@@ -16,7 +16,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode-8", "leetcode-8\le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode-m-1-4", "leetcode-m-1-4\leetcode-m-1-4.csproj", "{D2E2D911-14FB-4291-A77F-4A2B17E14C2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode-test", "leetcode-test\leetcode-test.csproj", "{3E6D9DA7-393C-4506-8251-F71458147AB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode-card", "leetcode-card\leetcode-card.csproj", "{3E6D9DA7-393C-4506-8251-F71458147AB5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode-121", "leetcode-121\leetcode-121.csproj", "{16412721-DCA8-4F52-B0CF-2E28D764295F}"
 EndProject
