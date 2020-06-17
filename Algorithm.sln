@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode-1014", "leetcode-1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode-20", "leetcode-20\leetcode-20.csproj", "{40E5B8EE-A5F4-4F86-833D-6819D36C0BF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode-1160", "leetcode-1160\leetcode-1160.csproj", "{89D2D4BF-3983-4B80-8528-A704DA758A39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +146,9 @@ Global
 		{40E5B8EE-A5F4-4F86-833D-6819D36C0BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40E5B8EE-A5F4-4F86-833D-6819D36C0BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40E5B8EE-A5F4-4F86-833D-6819D36C0BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D2D4BF-3983-4B80-8528-A704DA758A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D2D4BF-3983-4B80-8528-A704DA758A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D2D4BF-3983-4B80-8528-A704DA758A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D2D4BF-3983-4B80-8528-A704DA758A39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
