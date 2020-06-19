@@ -57,6 +57,19 @@
         <e p="Program.cs" t="Include" />
         <e p="Solution.cs" t="Include" />
       </e>
+      <e p="leetcode-125" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="leetcode-125.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="leetcode-125.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+      </e>
       <e p="leetcode-13" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="leetcode-13.csproj" t="IncludeRecursive" />
@@ -298,6 +311,19 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="leetcode-9.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+      </e>
+      <e p="leetcode-999" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="leetcode-999.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="leetcode-999.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
