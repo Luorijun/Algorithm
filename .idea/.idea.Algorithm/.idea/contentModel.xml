@@ -369,6 +369,32 @@
         <e p="Program.cs" t="Include" />
         <e p="Solution.cs" t="Include" />
       </e>
+      <e p="leetcode-m-16-18" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="leetcode-m-16-18.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="leetcode-m-16-18.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+      </e>
+      <e p="leetcode-m-2-1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="leetcode-m-2-1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="leetcode-m-2-1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
