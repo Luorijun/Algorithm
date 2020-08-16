@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\luori\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\luori\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_Algorithm.377618170.00" t="ExcludeRecursive" />
-    <e p="D:\Projects\Algorithm" t="IncludeFlat">
+    <e p="C:\Users\luori\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_Algorithm.186145740.00" t="ExcludeRecursive" />
+    <e p="C:\Users\luori\Projects\Algorithm" t="IncludeFlat">
       <e p="Algorithm.sln" t="IncludeFlat" />
       <e p="leetcode-10" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -324,6 +324,19 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="leetcode-72.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+      </e>
+      <e p="leetcode-733" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="leetcode-733.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="leetcode-733.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
